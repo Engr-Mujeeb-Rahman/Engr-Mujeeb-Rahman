@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Mujeeb-Akbar/1st/refs/heads/main/github%20banner.jpg)](https://your-link-here)
+[![MasterHead](https://raw.githubusercontent.com/Engr-Mujeeb-Rahman/1st/refs/heads/main/github%20banner.jpg)](https://your-link-here)
 
 <h1 align="center">
   <a href="#">
@@ -9,11 +9,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mujeeb Ur Rahman</h1>
 <h3 align="center">A passionate Software Engineer From KPK Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mujeeb-Akbar&label=Profile%20views&color=0e75b6&style=flat" alt="Mujeeb-Akbar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Engr-Mujeeb-Rahman&label=Profile%20views&color=0e75b6&style=flat" alt="Engr-Mujeeb-Rahman" /> </p>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salman7292" alt="Mujeeb-Akbar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salman7292" alt="Engr-Mujeeb-Rahman" /></a> </p>
 
 
 <H1>About Me:</H1>  
@@ -70,7 +70,7 @@ Join me on The following Platforms, where I share insights, victories, and even 
 
  ---
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=Mujeeb-Akbar&" alt="Mujeeb-Akbar">
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=Engr-Mujeeb-Rahman&" alt="Engr-Mujeeb-Rahman">
 </p>
 
 
@@ -78,6 +78,6 @@ Join me on The following Platforms, where I share insights, victories, and even 
 
 
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mujeeb-Akbar&show_icons=true&locale=en&layout=compact" alt="Mujeeb-Akbar">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=Engr-Mujeeb-Rahman&show_icons=true&locale=en&layout=compact" alt="Engr-Mujeeb-Rahman">
 </p>
 "

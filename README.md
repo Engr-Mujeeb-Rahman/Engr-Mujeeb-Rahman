@@ -13,17 +13,17 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salman7292" alt="Engr-Mujeeb-Rahman" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Engr-Mujeeb-Rahman" alt="Engr-Mujeeb-Rahman" /></a> </p>
 
 
 <H1>About Me:</H1>  
 <img align="right" alt="Coding" width="200" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
-<P>I'm a dedicated Python programmer with expertise in developing applications using Streamlit. My passion lies in the fields of Machine Learning and Deep Learning, where I constantly explore and implement cutting-edge techniques. I specialize in predictive analytics and enjoy creating robust models to solve real-world problems. With a strong foundation in AI, I am committed to advancing my knowledge and contributing to the open-source community.</P>
+<P>I'm a dedicated Python programmer with expertise in developing applications using Streamlit. My passion lies in Machine Learning and Deep Learning, where I constantly explore and implement cutting-edge techniques. I specialize in predictive analytics and enjoy creating robust models to solve real-world problems. With a strong foundation in AI, I am committed to advancing my knowledge and contributing to the open-source community.</P>
 
 
 - 🔭 I’m currently working on *To implementing AI into webapp*
 
-- 💬 Ask me about *Python Programming ,Api Integration,ML Models*
+- 💬 Ask me about *Python Programming, Api Integration, ML Models*
 
 - 📫 How to reach me *mujeebbadwan1155@gmail.com*
 
@@ -31,7 +31,7 @@
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(216,82,82,1) 13%, rgba(237,242,6,1) 57%);" />
 
 <h3 align="left">Social media :📡 </h3>
-Join me on The following Platforms, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me.
+Join me on the following Platforms, where I share insights, victories, and occasional setbacks. Embrace the cyberpunk ethos with me.
 <br>
 <br>
 

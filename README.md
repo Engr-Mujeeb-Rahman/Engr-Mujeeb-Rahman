@@ -18,14 +18,14 @@
 
 <H1>About Me:</H1>  
 <img align="right" alt="Coding" width="200" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
-<P>I'm a dedicated Python programmer with expertise in developing applications using Streamlit. My passion lies in Machine Learning and Deep Learning, where I constantly explore and implement cutting-edge techniques. I specialize in predictive analytics and enjoy creating robust models to solve real-world problems. With a strong foundation in AI, I am committed to advancing my knowledge and contributing to the open-source community.</P>
+<P>I’m a Software Engineer and Python Developer with expertise in building intelligent web applications using Streamlit and integrating AI/ML models into real-world solutions. My passion lies in Machine Learning and Deep Learning, with a focus on predictive analytics, NLP, and data-driven problem-solving. I enjoy creating robust, scalable models and deploying them as user-friendly applications..</P>
 
 
-- 🔭 I’m currently working on *To implementing AI into webapp*
+- 🔭 Currently working on: Integrating AI into a web application*
 
-- 💬 Ask me about *Python Programming, Api Integration, ML Models*
+- 💬 Ask me about: Python, API integration, ML/DL models, and data visualization*
 
-- 📫 How to reach me *mujeebbadwan1155@gmail.com*
+- 📫 Reach me at: mujeebbadwan1155@gmail.com*
 
    
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(216,82,82,1) 13%, rgba(237,242,6,1) 57%);" />
